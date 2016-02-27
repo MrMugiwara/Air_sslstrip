@@ -1,11 +1,11 @@
 #!/bin/bash
-# (C)opyright 2009 - killadaninja - Modified H4m4d4 2014
+# (C)opyright 2009 -  https://github.com/MrMugiwara 2014
 # airssl.sh - v1.0
 # visit the man page NEW SCRIPT Capturing Passwords With sslstrip AIRSSL.sh
 # configure your Network 
 # Network questions
 echo
-echo "AIRSSL 2.0 - Credits killadaninja & h4m4d4  "
+echo "AIRSSL 2.0 - Credits  https://github.com/MrMugiwara  "
 echo
 route -n -A inet | grep UG
 echo
